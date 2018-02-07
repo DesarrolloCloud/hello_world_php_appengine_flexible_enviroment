@@ -1,0 +1,17 @@
+{
+    "name": "whnm/hello_word_php_appengine_flexible_enviroment",
+    "description": "Hola Mundo PHP App Engine Flexible Enviroment",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wilson Neira Mija",
+            "email": "wilsonnm22@hotmail.com"
+        }
+    ],
+    "require":
+     {
+	 "google/cloud": "^0.46",
+	 "php": "7.0.*"
+     }
+}
