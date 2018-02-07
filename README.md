@@ -31,7 +31,7 @@ Aplicativo inicial en PHP para Google App Engine Flexible Enviroment
 ### Ejecucion del aplicativo en GCP App Engine
 1. Dirigirte a la carpeta donde has clonado el codigo de la aplicación
 2. gcloud init (para configurar el proyecto al que vas a subir el aplicativo)
-3. gcloud app deploy (subes el aplicativo a app engine)
+3. gcloud app deploy (subes el aplicativo a app engine, puede solicitar sociar cuenta para facturación si estas en modo free asocia esa cuenta)
 4. gcloud browse (para que obtengas la URL de internet del aplicativo)
 
 ### Asesorias Privadas
